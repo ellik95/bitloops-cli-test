@@ -1,0 +1,5 @@
+create a typescript project with main.ts that prints hello world
+
+---
+
+why the gitignore does not work?

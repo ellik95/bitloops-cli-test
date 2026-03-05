@@ -1,0 +1,30 @@
+{
+  "checkpoint_id": "a0cf6d26c167",
+  "cli_version": "0.0.3",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".gitignore",
+    "package-lock.json",
+    "package.json",
+    "src/main.ts",
+    "tsconfig.json"
+  ],
+  "sessions": [
+    {
+      "metadata": "/a0/cf6d26c167/0/metadata.json",
+      "transcript": "/a0/cf6d26c167/0/full.jsonl",
+      "context": "/a0/cf6d26c167/0/context.md",
+      "content_hash": "/a0/cf6d26c167/0/content_hash.txt",
+      "prompt": "/a0/cf6d26c167/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 15,
+    "cache_creation_tokens": 15461,
+    "cache_read_tokens": 107344,
+    "output_tokens": 972,
+    "api_call_count": 11
+  }
+}

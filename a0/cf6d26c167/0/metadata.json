@@ -1,0 +1,36 @@
+{
+  "checkpoint_id": "a0cf6d26c167",
+  "session_id": "120603c2-7614-4f0c-a54e-c528d57d4b81",
+  "checkpoints_count": 2,
+  "strategy": "manual-commit",
+  "agent": "Claude Code",
+  "created_at": "2026-03-05T15:11:51.824966Z",
+  "cli_version": "0.0.3",
+  "turn_id": "14c00f111491",
+  "files_touched": [
+    "src/main.ts",
+    "package-lock.json",
+    "package.json",
+    "tsconfig.json",
+    ".gitignore"
+  ],
+  "transcript_identifier_at_start": "2d6f3fe4-ec57-46bb-aeaf-88a5528e1b99",
+  "branch": "main",
+  "token_usage": {
+    "input_tokens": 15,
+    "cache_creation_tokens": 15461,
+    "cache_read_tokens": 107344,
+    "output_tokens": 972,
+    "api_call_count": 11
+  },
+  "initial_attribution": {
+    "agent_lines": 116,
+    "agent_percentage": 40.70175438596491,
+    "calculated_at": "2026-03-05T15:11:51.754547Z",
+    "human_added": 167,
+    "human_modified": 2,
+    "human_removed": 0,
+    "total_committed": 285
+  },
+  "transcript_path": "/Users/elli/.claude/projects/-Users-elli-Projects-bitloops-cli-test/120603c2-7614-4f0c-a54e-c528d57d4b81.jsonl"
+}
