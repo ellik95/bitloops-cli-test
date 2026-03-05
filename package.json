@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ellik95/bitloops-cli-test/issues"
   },
@@ -21,5 +21,8 @@
   "devDependencies": {
     "@types/node": "^25.3.3",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "fastify": "^5.8.1"
   }
 }
