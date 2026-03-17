@@ -1,0 +1,50 @@
+{
+  "hooks": {
+    "afterShellExecution": [
+      {
+        "command": "bitloops hooks cursor after-shell-execution"
+      }
+    ],
+    "beforeShellExecution": [
+      {
+        "command": "bitloops hooks cursor before-shell-execution"
+      }
+    ],
+    "beforeSubmitPrompt": [
+      {
+        "command": "bitloops hooks cursor before-submit-prompt"
+      }
+    ],
+    "preCompact": [
+      {
+        "command": "bitloops hooks cursor pre-compact"
+      }
+    ],
+    "sessionEnd": [
+      {
+        "command": "bitloops hooks cursor session-end"
+      }
+    ],
+    "sessionStart": [
+      {
+        "command": "bitloops hooks cursor session-start"
+      }
+    ],
+    "stop": [
+      {
+        "command": "bitloops hooks cursor stop"
+      }
+    ],
+    "subagentStart": [
+      {
+        "command": "bitloops hooks cursor subagent-start"
+      }
+    ],
+    "subagentStop": [
+      {
+        "command": "bitloops hooks cursor subagent-stop"
+      }
+    ]
+  },
+  "version": 1
+}
