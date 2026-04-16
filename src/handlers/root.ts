@@ -1,3 +1,4 @@
 export async function getRootHandler() {
-  return 'Hello World';
+  const numberOne = 1;
+  return `Hello World ${numberOne}`;
 }
